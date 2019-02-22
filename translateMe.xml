@@ -1,0 +1,8 @@
+<application>
+  <component name="translateMe">
+    <option name="langFrom" value="de" />
+    <option name="langTo" value="en" />
+    <option name="splitCamelCase" value="true" />
+    <option name="splitUnderscores" value="true" />
+  </component>
+</application>
